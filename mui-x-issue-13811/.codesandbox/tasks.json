@@ -1,0 +1,10 @@
+{
+  "$schema": "https://codesandbox.io/schemas/tasks.json",
+  "tasks": {
+    "test": {
+      "name": "Test Demo",
+      "command": "pnpm test",
+      "runAtStart": true
+    }
+  }
+}
