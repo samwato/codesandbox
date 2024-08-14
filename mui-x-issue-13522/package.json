@@ -3,7 +3,7 @@
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
     "@mui/material": "latest",
-    "@mui/x-data-grid": "https://pkg.csb.dev/mui/mui-x/commit/3f034bae/@mui/x-data-grid",
+    "@mui/x-data-grid": "https://pkg.csb.dev/mui/mui-x/commit/a5c719c3/@mui/x-data-grid",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "react": "latest",
